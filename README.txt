@@ -22,5 +22,7 @@ Content rules:
 - Professional, formal tone.
 - Estimating services only. Never state or imply that El Dorado Claim
   Services negotiates or settles insurance claims.
+- No license numbers: the CA and NV licenses belong to independent
+  adjusting, not this business.
 - No prices, turnaround times, or insurance details on the site unless
   confirmed by Brian.
