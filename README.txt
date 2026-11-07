@@ -1,23 +1,26 @@
-EL DORADO CLAIM SERVICES - PREMIUM LANDING PAGE
+EL DORADO CLAIM SERVICES - WEBSITE (eldoradoclaim.com)
 
-Files included:
-- index.html
-- styles.css
-- script.js
+Files:
+- index.html    The entire site. Single page; all styles are inline.
+- og-image.png  1200x630 preview image shown when the link is shared.
 
-How to preview:
-1. Unzip the folder.
-2. Open index.html in Chrome, Edge, or Safari.
+Hosting:
+- Vercel, deployed automatically from this GitHub repo.
+- Pushes to the main branch update the live site.
+- Pushes to any other branch create a Vercel preview URL.
 
-How to publish with Vercel:
-1. Create/log into a Vercel account.
-2. Click Add New > Project.
-3. Choose Import manually or drag this folder into Vercel.
-4. Deploy.
-5. In Vercel, go to Project > Settings > Domains and add eldorado claim domain.
-6. In Wix, update the domain DNS records to the values Vercel gives you.
+Change workflow:
+1. Make changes on a new branch (never directly on main).
+2. Review the Vercel preview deployment for that branch.
+3. Merge to main only after Brian approves.
 
-Suggested next edits:
-- Replace the hero background stock image with your own field/drone photo.
-- Add license/certification language if desired.
-- Add a real contact form later through Formspree, Basin, Wix Forms, or a Vercel function.
+Brand:
+- Colors: navy #0B1624, gold #D4A23A
+- Fonts: Archivo (headings), Inter (body), loaded from Google Fonts
+
+Content rules:
+- Professional, formal tone.
+- Estimating services only. Never state or imply that El Dorado Claim
+  Services negotiates or settles insurance claims.
+- No prices, turnaround times, or insurance details on the site unless
+  confirmed by Brian.
